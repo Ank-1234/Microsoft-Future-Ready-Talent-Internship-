@@ -26,3 +26,6 @@ https://ashy-moss-00135a610.1.azurestaticapps.net/index.html
 Details of my project 
 https://ashy-moss-00135a610.1.azurestaticapps.net/about.html
 
+Contact page :
+
+https://ashy-moss-00135a610.1.azurestaticapps.net/contact.html
