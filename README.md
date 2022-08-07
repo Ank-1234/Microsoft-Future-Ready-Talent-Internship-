@@ -17,6 +17,8 @@ Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
 
 Other Azure Technologies : App Service
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+
 My website project link 
 https://ashy-moss-00135a610.1.azurestaticapps.net/index.html
 Details of my project 
