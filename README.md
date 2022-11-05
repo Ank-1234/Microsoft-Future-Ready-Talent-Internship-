@@ -13,7 +13,7 @@ Problem Statement/Opportunity : This application is developed to provide best tr
 
 Project Description : Tourism can be considered as most favorite pass time when people get free time. Several travel organizations are available on the web. The people or the tourist select their own Travel Package according to their personal interest. Main Objective of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching Facility for Customer and provide good Packages to Customers. If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble to the touristers.
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
+Primary Azure Technology : Azure Bot Service, Static Web Apps
 
 Other Azure Technologies : App Service
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
