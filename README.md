@@ -19,14 +19,21 @@ Other Azure Technologies : App Service
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
 
-My website project link 
+My website of my project 
+https://ashy-moss-00135a610.1.azurestaticapps.net/contact.html
+
+
+Home Page of My website 
 https://ashy-moss-00135a610.1.azurestaticapps.net/index.html
 
-
-Details of my project 
+About  section of My project website 
 https://ashy-moss-00135a610.1.azurestaticapps.net/about.html
 
-Contact page :
+
+Explore page which offer many services
+https://ashy-moss-00135a610.1.azurestaticapps.net/services.html
+
+Contact page where user can contact 
 
 https://ashy-moss-00135a610.1.azurestaticapps.net/contact.html
 
